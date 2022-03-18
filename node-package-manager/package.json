@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "name": "package-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
